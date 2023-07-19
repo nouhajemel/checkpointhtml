@@ -1,0 +1,42 @@
+/* change header back gound color */
+header{
+    background-color: rgb(160, 33, 109);
+}
+header p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    color:beige;
+}
+/* make a border */
+nav{
+    border: 5px solid aqua;
+    border-radius: 25px;
+  }
+nav img{
+    height:100px;
+    width: 100px;
+    padding-left: 30px;
+}
+li{
+    display: inline;
+    margin-left: 30px;
+}
+nav img,nav ul{
+    display: inline;
+}
+nav ul{
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding-bottom:30px;
+}
+.introduction h1{
+    color:aqua;
+    padding-left:200px;
+}
+#cel_title{
+    text-decoration: underline;
+}
